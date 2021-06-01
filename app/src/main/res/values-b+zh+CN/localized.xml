@@ -124,6 +124,7 @@
     <string name="p_battle_config_support_mlb">满破礼装</string>
     <string name="p_battle_config_support_friend_names">好友名称</string>
     <string name="p_battle_config_support_friends_only">只选择好友从者</string>
+    <string name="p_battle_config_support_friend_name_hint">请使用 \'助战图片截取器\' 来获取好友名称的图片</string>
 
     <string name="p_max_skill_1">一技能满级</string>
     <string name="p_max_skill_2">二技能满级</string>
@@ -204,9 +205,9 @@
     <string name="p_nav_battle_config_edit">编辑脚本</string>
     <string name="p_nav_card_priority">偏好指令卡</string>
 
-    <string name="p_refill_type_gold">黃金果实</string>
-    <string name="p_refill_type_silver">白银果实</string>
-    <string name="p_refill_type_bronze">赤铜果实</string>
+    <string name="p_refill_type_gold">黃金苹果</string>
+    <string name="p_refill_type_silver">白银苹果</string>
+    <string name="p_refill_type_bronze">赤铜苹果</string>
     <string name="p_refill_type_sq">圣晶石</string>
 
     <string name="p_brave_chains_don_t_care">无偏好</string>
